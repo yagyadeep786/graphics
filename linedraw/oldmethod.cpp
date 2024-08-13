@@ -18,6 +18,12 @@ void oldLineMethod(float x1,float y1,float x2,float y2){
    }
 }
 
+// write a new method for line drawing.
+
+void ddaMethod(float x1,float y1,float x2,float y2){
+    
+}
+
 int main()
 {
     int gd= DETECT,gm;
