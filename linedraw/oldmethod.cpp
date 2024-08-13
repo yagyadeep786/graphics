@@ -24,6 +24,12 @@ void ddaMethod(float x1,float y1,float x2,float y2){
     
 }
 
+// write circle method
+
+void circleMethod(float r,float xc,float yc){
+    // here write code.
+}
+
 int main()
 {
     int gd= DETECT,gm;
